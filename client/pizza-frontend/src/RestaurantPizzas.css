@@ -1,0 +1,21 @@
+/* RestaurantPizzas.css */
+
+.pizza-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: black
+  }
+  
+  .pizza-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  /* Example of adding text color to a specific element */
+  .pizza-title {
+    color: greenyellow;
+  }
+  
